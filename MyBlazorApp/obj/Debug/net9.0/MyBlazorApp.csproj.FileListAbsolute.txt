@@ -1082,3 +1082,13 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyBlazorApp\bin\Debug\net9
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyBlazorApp\obj\Debug\net9.0\compressed\w5qwprknaq-k4door9izn.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyBlazorApp\obj\Debug\net9.0\compressed\hy8h8twu6g-2wq3bs7t1m.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyBlazorApp\obj\Debug\net9.0\compressed\1x8j8qyv39-9sj0q5eknz.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.csproj.AssemblyReference.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.AssemblyInfoInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.AssemblyInfo.cs
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.sourcelink.json
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.dll
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\refint\MyBlazorApp.dll
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.pdb
