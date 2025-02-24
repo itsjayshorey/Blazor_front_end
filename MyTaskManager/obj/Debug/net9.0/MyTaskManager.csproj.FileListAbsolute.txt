@@ -1082,3 +1082,13 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyTaskManager\bin\Debug\ne
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyTaskManager\obj\Debug\net9.0\compressed\dd3lh0cku7-2a8huqsskg.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyTaskManager\obj\Debug\net9.0\compressed\3n37macw2w-hkcshagxoa.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\MyTaskManager\obj\Debug\net9.0\compressed\x2b00nzcds-sz2bbpawrq.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.csproj.AssemblyReference.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.AssemblyInfoInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.AssemblyInfo.cs
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.sourcelink.json
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.dll
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\refint\MyTaskManager.dll
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyTaskManager\obj\Debug\net9.0\MyTaskManager.pdb
