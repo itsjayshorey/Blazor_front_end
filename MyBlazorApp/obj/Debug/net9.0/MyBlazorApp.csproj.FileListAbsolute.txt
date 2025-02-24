@@ -1121,8 +1121,8 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorA
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Primitives.2w82csd6tr.wasm
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.krtg4e9rjb.wasm
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\mscorlib.l6md3pggqy.wasm
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.tbo2ccnakg.pdb
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.jg32gegxet.wasm
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.7aft80s01k.pdb
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.lieyyn8drm.wasm
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\netstandard.lij9csiyuf.wasm
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.ch56s52ual.wasm
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.tlm3i6pt76.wasm
@@ -1378,7 +1378,7 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorA
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Json.uy989eosch.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Asn1.sw73ne3kde.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Writer.4ao90ee7f8.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.tbo2ccnakg.pdb.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.7aft80s01k.pdb.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.Quic.6n4jzsrw88.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.VisualBasic.ezua2clavb.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Overlapped.vhe0cauobg.wasm.gz
@@ -1471,7 +1471,7 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorA
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.5kh3shl062.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Contracts.g37ic7xnxa.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Intrinsics.o9fm7inv0s.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.jg32gegxet.wasm.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.lieyyn8drm.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Xml.ReaderWriter.lis3h0bjpq.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.Json.158hlj0e3x.wasm.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Csp.vdqwngku20.wasm.gz
@@ -2149,9 +2149,9 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorA
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\am1u1mbqiq-tjcz0u77k5.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\o76u98ev1i-tptq2av103.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\3a44cq2bfo-lfu7j35m59.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\w5qwprknaq-jg32gegxet.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\hy8h8twu6g-tbo2ccnakg.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\1x8j8qyv39-r1ve0251uv.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\w5qwprknaq-lieyyn8drm.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\hy8h8twu6g-7aft80s01k.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\1x8j8qyv39-99h4pgsopi.gz
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
