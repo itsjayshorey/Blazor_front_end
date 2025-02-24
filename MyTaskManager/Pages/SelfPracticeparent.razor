@@ -1,0 +1,6 @@
+@* @page "/pendingworks"
+<h1>This is controller for pending works"></h1>
+@for each(var work in PendingWorks)
+{
+    <SelfPractice PendingWork="@work" OnWorkCompleted="HandleWorkCompleted" @key="@work"/>
+} *@

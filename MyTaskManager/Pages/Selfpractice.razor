@@ -1,0 +1,16 @@
+@page "/selfpractice"
+<h1>Self Practice</h1>
+<h1>@PendingWork</h1>
+@code{
+    [Parameter]
+    public string PendingWork { get; set; } = string.Empty;
+    [Parameter]
+    public EventCallback<string> OnWorkCompleted { get; set; }
+    private void MarkAsComplete()
+    {
+        if (!string.IsNullOrWhiteSpace(PendingWork))
+        {
+            OnWorkCompleted.InvokeAsync(PendingWork);
+        }
+    }
+}

@@ -1,0 +1,24 @@
+@page "/tasks"
+@using Microsoft.AspNetCore.Components
+<head>
+    <link rel="stylesheet" href="Layout\EXTRA.css" />
+</head>
+
+<h3>Task Manager</h3>
+
+@foreach (var task in TaskList)
+{
+    <ChildTaskDisplay TaskName="@task" OnTaskCompleted="HandleTaskCompleted" @key="@task" />
+}
+
+@code {
+    private List<string> TaskList = new() { "Task 1", "Task 2", "Task 3" };
+
+    private void HandleTaskCompleted(string completedTask)
+    {
+        if (TaskList.Contains(completedTask))
+        {
+            TaskList.Remove(completedTask);
+        }
+    }
+}
