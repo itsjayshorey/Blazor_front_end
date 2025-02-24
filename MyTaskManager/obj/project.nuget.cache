@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nc97MQasQ64=",
+  "dgSpecHash": "r5ZJn2e2G14=",
   "success": true,
-  "projectFilePath": "C:\\Users\\itsja\\OneDrive\\Desktop\\Blazor_for_full_stack\\MyTaskManager\\MyTaskManager.csproj",
+  "projectFilePath": "C:\\Users\\itsja\\OneDrive\\Desktop\\Blazor_for_full_stack\\Blazor_front_end\\MyTaskManager\\MyTaskManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itsja\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
     "C:\\Users\\itsja\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
