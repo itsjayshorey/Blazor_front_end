@@ -2159,10 +2159,10 @@ C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorA
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\refint\MyBlazorApp.dll
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\MyBlazorApp.pdb
 C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\ref\MyBlazorApp.dll
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.q0l7bb48pu.pdb
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.9yhw6d4u0v.wasm
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.q0l7bb48pu.pdb.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.9yhw6d4u0v.wasm.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\w5qwprknaq-9yhw6d4u0v.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\hy8h8twu6g-q0l7bb48pu.gz
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\1x8j8qyv39-3ci2s6dzjm.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.wjln0jxk7r.pdb
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.gdkncwsr1t.wasm
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.wjln0jxk7r.pdb.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\bin\Debug\net9.0\wwwroot\_framework\MyBlazorApp.gdkncwsr1t.wasm.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\w5qwprknaq-gdkncwsr1t.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\hy8h8twu6g-wjln0jxk7r.gz
+C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\MyBlazorApp\obj\Debug\net9.0\compressed\1x8j8qyv39-i5qx40ujfo.gz
