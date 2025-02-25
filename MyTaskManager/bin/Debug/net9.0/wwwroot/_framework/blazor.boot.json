@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyTaskManager",
   "resources": {
-    "hash": "sha256-l3OYsb5BZw05k4i/FSwtmRvmUgZfHQcXVGpGdaE4Cvo=",
+    "hash": "sha256-iz+IQyv0OWZthLvZDrqtyr8nDPKgh9o0m6BCz/yC+1o=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MyTaskManager.2a8huqsskg.wasm": "MyTaskManager.wasm",
-      "MyTaskManager.hkcshagxoa.pdb": "MyTaskManager.pdb"
+      "MyTaskManager.hvwxvibmy7.wasm": "MyTaskManager.wasm",
+      "MyTaskManager.7b51t289mq.pdb": "MyTaskManager.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -412,10 +412,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "MyTaskManager.2a8huqsskg.wasm": "sha256-KoqqUHPk8VZXvsCjp2iJj6Fr87HvgKeUgRNDSf466vs="
+      "MyTaskManager.hvwxvibmy7.wasm": "sha256-rVuvAbIa+G1FOsjvpzf7EKG/Uh0WdmlLr6nkAFBtiNU="
     },
     "pdb": {
-      "MyTaskManager.hkcshagxoa.pdb": "sha256-X3g2nvjyE9DH74ODzyC7E6b/TDqmpiNtBmfb7p2fB/k="
+      "MyTaskManager.7b51t289mq.pdb": "sha256-3enLTNb9Hoam63cjT+kUf8j5pV5H3PkmHvy1WaEnRoc="
     }
   },
   "cacheBootResources": true,

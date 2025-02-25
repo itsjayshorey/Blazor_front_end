@@ -1,0 +1,28 @@
+@inject DataService DataService
+<div>
+    <button @onclick="ToggleRenderCondition">ToggleRenderCondition Product List</button>
+    @if (ShouldRenderCondition)
+    {
+        <ul>
+            @foreach (var product in DataService.GetProducts())
+            {
+                <li>@product.Name</li>
+            }
+        </ul>
+    }
+</div>
+
+@code{
+    private list<string> Products = new List<string> { "Product 1", "Product 2", "Product 3" };
+    private bool ShouldRenderCondition = true;
+    protected override bool ShouldRender()
+    {
+        //This function only works when the conditionis met
+        return ShouldRenderCondition;
+    }
+    public void ToggleRenderCondition()
+    {
+        //This function toggles the condition
+        ShouldRenderCondition = !ShouldRenderCondition;
+    }
+}
