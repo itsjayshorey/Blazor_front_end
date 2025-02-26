@@ -1,7 +1,0 @@
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.csproj.AssemblyReference.cache
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.AssemblyInfoInputs.cache
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.AssemblyInfo.cs
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.csproj.CoreCompileInputs.cache
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\itsja\OneDrive\Desktop\Blazor_for_full_stack\Blazor_front_end\Reusable_components\obj\Debug\net9.0\Reusable_components.sourcelink.json
